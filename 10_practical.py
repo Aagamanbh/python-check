@@ -1,0 +1,5 @@
+first_name=input("Enter first name: ")
+last_name=input("Enter last name: ")
+purchase=input("Enter the purchased item name: ")
+price= float(input("Enter the price of the item :"))
+print("Hello, %s %s!\nYour purchased item is %s and its price is %.2f" %(first_name ,last_name,purchase,price))

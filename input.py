@@ -1,0 +1,5 @@
+a =input("Enter first number: ")
+b =input("Enter second number: ")
+print("Number a is ",a)
+print("Number b is ",b)
+print("The sum of the number is: ",int(a)+int(b))

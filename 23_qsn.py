@@ -1,0 +1,15 @@
+d={}
+fri=input("Enter friend name:")
+langu=input("Enter favourite language:")
+d.update({fri:langu})
+fri=input("Enter friend name:")
+langu=input("Enter favourite language:")
+d.update({fri:langu})
+fri=input("Enter friend name:")
+langu=input("Enter favourite language:")
+d.update({fri:langu})
+fri=input("Enter friend name:")
+langu=input("Enter favourite language:")
+d.update({fri:langu})
+
+print(d)
